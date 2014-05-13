@@ -1,0 +1,3 @@
+mkdir ~/MyProject
+
+mkdir is short for make directory. It’s not actually a Git command, but a general navigational command from the time before visual computer interfaces. The ~/ ensures that we’re building the repository at the top level of your computer’s file structure, instead of stuck inside some other directory that would be hard to find later. Actually, if you type ~/ into your browser window, it’ll bring up your local computer’s top level directory. For me, using Chrome on a Mac, it displays my Users folder.
